@@ -1,0 +1,42 @@
+[
+    {
+        "id": "1",
+        "name": "Iphone 13 Pro Max", 
+        "price": "1199",
+        "image": "https://cdn.vox-cdn.com/thumbor/ohK1eB408v24ibkHmz7lCxscLvQ=/0x146:2031x1209/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22863288/vpavic_210916_untitled_0058.jpg",
+        "description": "Get iPhone 13 Pro or iPhone 13 Pro Max for an amazing price with special carrier trade-in offers. Make low monthly payments at 0% APR. Free shipping.",
+        "colors": "Graphite, Gold, Silver, Sierra Blue"
+    },
+    {
+        "id": "2",
+        "name": "Iphone 12 Pro Max", 
+        "price": "999",
+        "image": "https://i.insider.com/5f85ee1ffd1f49001964d56c?width=1136&format=jpeg",
+        "description": "Apple iPhone 12 Pro Max · Processor: Apple A14 Bionic (5 nm) · RAM: 6GB · Storage: 128GB, 256GB, 512GB · Display: 6.7 inches Super Retina XDR OLED display.",
+        "colors": "Graphite, Gold, Silver"
+    },
+    {
+        "id": "3",
+        "name": "Iphone 7", 
+        "price": "499",
+        "image": "https://images.unsplash.com/photo-1621381693445-6e292df2328f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8aXBob25lJTIwN3xlbnwwfHwwfHw%3D&w=1000&q=80",
+        "description": "Apple iPhone 7 smartphone. Announced Sep 2016. Features 4.7″ display, Apple A10 Fusion chipset, 12 MP primary camera, 7 MP front. Price, About 180 EUR",
+        "colors": "Jet Black, Gold, Silver, Rose Gold, Black"
+    },
+    {
+        "id": "4",
+        "name": "Samsung Galaxy S10", 
+        "price": "669",
+        "image": "https://www.androidcentral.com/sites/androidcentral.com/files/styles/large_wm_brw/public/article_images/2019/02/galaxy-s10-plus-ceramic-black-white-2.jpg",
+        "description": "Samsung Galaxy S10 5G · Released 2019, April · 198g, 7.9mm thickness · Android 9.0, up to Android 12, One UI 4 · 256GB/512GB storage, no card slot",
+        "colors": "Black, Gold, Silver, Rose Gold, White"
+    },
+    {
+        "id": "5",
+        "name": "OnePlus 9", 
+        "price": "599",
+        "image": "https://images.firstpost.com/wp-content/uploads/large_file_plugin/2021/04/1617617776_OnePlus9_back.jpg",
+        "description": "OnePlus 9 ; CPU · Qualcomm® Snapdragon™ 888 ; GPU · Adreno 660 ; RAM · 8GB LPDDR5 ; Storage · 128GB UFS 3.1 2-LANE ; Battery · 4,500 mAh (2S1P 2,250 mAh, non-removable)",
+        "colors": "Arctic Sky, Winter Mist, Stellar Black"
+    }
+]
