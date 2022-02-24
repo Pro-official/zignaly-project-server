@@ -10,8 +10,8 @@ app.use(cors());
 app.use(express.json());
 
 // Environment Variables
-const dbUser = process.env.USER;
-const dbPassword = process.env.PASS;
+const dbUser = "zignaly-pro";
+const dbPassword = "QKEqDFD3u4yUyaas";
 const uri = `mongodb+srv://${dbUser}:${dbPassword}@cluster0.j6ced.mongodb.net/myFirstDatabase?retryWrites=true&w=majority`;
 
 const client = new MongoClient(uri, {
